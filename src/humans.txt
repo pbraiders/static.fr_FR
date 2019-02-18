@@ -1,0 +1,15 @@
+﻿/* humanstxt.org */
+
+/* TEAM */
+  Creator and Owner: Olivier Jullien
+  Site: contact [at] pbraiders.fr
+  Location: France
+
+/* THANKS */
+  Human TXT: http://humanstxt.org/
+
+/* SITE */
+  Last update: 2016/04/21
+  Language: French
+  Standards: HTML5, CSS3
+  Software: NetBeans Zend Compass sass
