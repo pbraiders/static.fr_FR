@@ -12,7 +12,7 @@ Thanks you for taking the time to contribute. Please fork the repository and mak
 
 If you have any ideas, just open an [issue](https://github.com/pbraiders/static.fr_FR/issues) and tell me what you think. Pull requests are also warmly welcome.
 
-If you encounter any **bugs** in the configuration or templates, please open an [issue](https://github.com/pbraiders/static.fr_FR/issues).
+If you encounter any **bugs**, please open an [issue](https://github.com/pbraiders/static.fr_FR/issues).
 
 Be sure to include a title and clear description,as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
