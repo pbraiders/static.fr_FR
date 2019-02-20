@@ -1,4 +1,5 @@
 # Contributing
+
 Thanks you for taking the time to contribute! Please fork the repository and make changes as you'd like.
 
 As we use these scripts for our own projects, it contains only the features we need. But, we want to make contributing to this project as easy and transparent as possible, whether it's:
@@ -10,9 +11,11 @@ As we use these scripts for our own projects, it contains only the features we n
 - Becoming a maintainer
 
 ## We develop with GitHub
+
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
 ## If you have any ideas
+
 Pull requests are the best way to propose changes to the codebase. There are warmly welcome.
 
 1. Fork the repo and create your branch from `master`.
@@ -23,7 +26,8 @@ Pull requests are the best way to propose changes to the codebase. There are war
 6. Issue that pull request!
 
 ## Bug and fix
-If you encounter any **bugs**, please open an [issue](https://github.com/pbraiders/fr-FR/issues/new).
+
+If you encounter any **bugs**, please open an [issue](https://github.com/pbraiders/static.fr_FR/issues/new).
 
 **Great Bug Reports** tend to have:
 
